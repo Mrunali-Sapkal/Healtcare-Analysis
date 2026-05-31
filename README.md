@@ -1,11 +1,13 @@
-##Overview
+# Healthcare Analysis Project
+
+## Overview
 
 This project is a Healthcare Analytics Dashboard built to analyze patient, doctor, treatment, and laboratory data in an interactive and visual way.
 The dashboard helps healthcare administrators and decision-makers monitor key healthcare metrics, identify trends, and gain insights into patient care and 
 operational performance.
 The goal of this project was to create a clean and easy-to-understand dashboard that can quickly answer important healthcare-related questions through data visualization.
 
-##The dashboard provides an overview of:
+## The dashboard provides an overview of:
 
 Total Patients
 Total Doctors
@@ -19,7 +21,7 @@ Abnormal Test Percentage
 Features
 Interactive Filters
 
-#Users can filter the dashboard using:
+## Users can filter the dashboard using:
 
 Department
 Gender
@@ -42,7 +44,7 @@ Monthly Visit Trends
 Blood Type Distribution
 Business Insights
 
-#Some insights that can be identified from the dashboard include:
+## Some insights that can be identified from the dashboard include:
 
 Most frequently diagnosed medical conditions.
 Distribution of abnormal, normal, and pending lab results.
@@ -59,7 +61,7 @@ Data Modeling
 Data Visualization
 Dataset Information
 
-#The dataset used in this project contains healthcare-related records, including:
+## The dataset used in this project contains healthcare-related records, including:
 
 Patient Information
 Doctor Information
