@@ -70,12 +70,15 @@ Billing and Revenue Data
 
 The data was cleaned and transformed before building the dashboard to ensure accurate reporting and analysis.
 
-##Project Objectives
+## Project Objectives
 Build an interactive healthcare reporting solution.
 Monitor healthcare performance indicators.
 Analyze patient demographics and treatment patterns.
 Track laboratory test outcomes.
 Support data-driven decision-making in healthcare operations.
 
-Author
+# Author
+**Mrunali Sapkal**
 
+* 📧 Email: mrunalisapkal34@gmail.com
+* 🔗 LinkedIn: www.linkedin.com/in/mrunali-sapkal-a8b4211b2
